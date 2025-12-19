@@ -2,4 +2,6 @@
 
 exercicioAula20251219
 
-Conteudo da aula de string em pascal
+Conteudo da aula de string em pascal.
+
+Mudança no servidor!
