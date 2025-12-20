@@ -30,6 +30,7 @@
 /bin/
 /debug/
 /release/
+/Backup/
 
 # Arquivos de sessão do Lazarus (podem ser recriados)
 *.lps
